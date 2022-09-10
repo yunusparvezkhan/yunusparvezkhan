@@ -3,7 +3,7 @@
 Some things you may want to know about me:
 
 - 🔭 I’m currently working on ... Web Dev
-- 🌱 I’m currently learning ... Javascript
+- 🌱 I’m currently learning ... MongoDB
 - 👯 I’m looking to collaborate on ... Any Business
 - 🤔 I’m looking for help with ... Core Physics & Cosmology
 - 💬 Ask me about ... Whatever You want 
