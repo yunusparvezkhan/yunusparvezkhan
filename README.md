@@ -9,6 +9,7 @@ Some things you may want to know about me:
 - 🤔 I’m looking for philosophical partnership in ... Core Physics & Cosmology
 - 💬 Ask me about ... Whatever You want 
 - 📫 How to reach me: ... <a href="https://instagram.com/yunusparvezkhan/"><b>Instagram</b></a>
+- 🔗 LinkedIn ... <a href="https://www.linkedin.com/in/yunus-parvez-khan-a05099158/" >Click Here</a>
 - 	 YouTube : ... <a href="https://youtube.com/yunusparvezkhan/"><b>YouTube channel</b></a>  
 
 
