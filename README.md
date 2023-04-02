@@ -3,7 +3,8 @@
 Some things you may want to know about me:
 
 - 🔭 I’m currently working on ... Web Dev
-- 🌱 I’m currently learning ... MongoDB
+- 🌱 Next thing to learn ... React Native
+- 💪 Currently Upskilling ... ReactJS, NodeJS
 - 👯 I’m looking to collaborate on ... Any Business
 - 🤔 I’m looking for philosophical partnership in ... Core Physics & Cosmology
 - 💬 Ask me about ... Whatever You want 
