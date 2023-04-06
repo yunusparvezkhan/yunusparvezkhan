@@ -7,7 +7,7 @@ Some things you may want to know about me:
 - 💪 <b>Currently Upskilling</b> => ReactJS, NodeJS
 - 🌱 <b>Next thing to learn</b> => React Native
 - 👯 <b>I’m looking to collaborate on</b> ==>
--
+
            1. Startup Projects having positive social impacts
            2. Programming projects to upskill/contribute to blockchain technologies
            3. Research Projects having good environmental focus
@@ -15,7 +15,7 @@ Some things you may want to know about me:
 
 
 - 🤔 <b>I’m looking for Collaborative Learning/Research on</b> ==>
--
+
            1. Core Physics
            2. Cosmology
            3. Research/Startup Projects for better cybersecurity (Learning Collaboration) 
