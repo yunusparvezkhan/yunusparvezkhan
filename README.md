@@ -1,4 +1,4 @@
-### Namaskar, it's Yunus Parvez Khan 👋
+### Namaskaram, it's Yunus Parvez Khan 👋
 
 Some things you may want to know about me:
 
