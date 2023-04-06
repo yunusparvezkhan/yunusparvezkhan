@@ -7,21 +7,21 @@ Some things you may want to know about me:
 - 💪 <b>Currently Upskilling</b> => ReactJS, NodeJS
 - 🌱 <b>Next thing to learn</b> => React Native
 - 👯 <b>I’m looking to collaborate on</b> ==>
-<p>
-           1. Startup Projects having positive social impacts
-           2. Programming projects to upskill/contribute to blockchain technologies
-           3. Research Projects having good environmental focus
-           4. Research Projects on Behavioral Sciences
-</p>
+<ol>
+           <li>1. Startup Projects having positive social impacts</li>
+           <li>2. Programming projects to upskill/contribute to blockchain technologies</li>
+           <li>3. Research Projects having good environmental focus</li>
+           <li>4. Research Projects on Behavioral Sciences</li>
+</ol>
 
 - 🤔 <b>I’m looking for Collaborative Learning/Research on</b> ==>
-<p>
+<ul>
            1. Core Physics
            2. Cosmology
            3. Research/Startup Projects for better cybersecurity (Learning Collaboration) 
            4. I may be interested in many more topics. (Contact me) 
 
-</p>
+</ul>
 - 💬 <b>Ask me about</b> => Whatever You want 
 - 📫 <b>How to reach me</b> ==>
 
