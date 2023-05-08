@@ -1,8 +1,5 @@
 ### Namaskaram, it's Yunus Parvez Khan 👋
 
-Some things you may want to know about me:
-
-- 🔭 <b>I’m currently working on</b> => Some own ideas
 - 💪 <b>Currently Upskilling</b> => ReactJS, NodeJS
 - 👯 <b>I’m looking to collaborate on</b> ==>
 
@@ -19,7 +16,6 @@ Some things you may want to know about me:
 
 
 - 📫 <b>Contact Me</b> ==>
-
 - <a href="https://instagram.com/yunusparvezkhan/">Instagram</a>
 - <a href="https://www.linkedin.com/in/yunus-parvez-khan-a05099158/">LinkedIn</a>
 - <a href="https://youtube.com/yunusparvezkhan/">YouTube</a>
