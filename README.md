@@ -16,6 +16,9 @@
 
 
 - 📫 <b>Contact Me</b> ==>
-- <a href="https://instagram.com/yunusparvezkhan/">Instagram</a>
-- <a href="https://www.linkedin.com/in/yunus-parvez-khan-a05099158/">LinkedIn</a>
-- <a href="https://youtube.com/yunusparvezkhan/">YouTube</a>
+
+ <a href="https://instagram.com/yunusparvezkhan/"><img src="instagram.png" style="width:32px" /></a>
+ <img style="width:32px" />
+ <a href="https://www.linkedin.com/in/yunus-parvez-khan-a05099158/"><img src="linkedin.png" style="width:32px" /></a>
+ <img style="width:32px" />
+ <a href="https://youtube.com/yunusparvezkhan/"><img src="youtube.png" style="width:32px" /></a>
