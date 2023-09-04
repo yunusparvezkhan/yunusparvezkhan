@@ -10,6 +10,13 @@
 </div>
 
 
+<p align="center"> 
+Visitor count 
+<br>
+<br>
+<img src="https://profile-counter.glitch.me/yunusparvezkhan/count.svg" />
+</p>
+
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
@@ -56,6 +63,7 @@
 </tr>
 </table>
 <!--- stats (end) -->
+
 
 <!--- trophy (start) -->
 <div align=center>
