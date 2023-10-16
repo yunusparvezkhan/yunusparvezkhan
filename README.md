@@ -33,9 +33,9 @@ Visitor count
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, Nodejs, MongoDB**
+- 🔭 I’m currently working on **[Camitech](github.com/camitechhq)** as a Co-Founder
 
-- 🌱 I’m currently learning **ReduxJS**
+- 🌱 I’m currently learning **Go**
  
 - 📫 Feel free to reach me out **developer.ypk@gmail.com**
 
