@@ -37,7 +37,7 @@ Visitor count
 
 - 🌱 I’m currently learning **Go**
  
-- 📫 Feel free to reach me out **developer.ypk@gmail.com**
+- 📫 Feel free to reach me out **ping.dev.ypk@gmail.com**
 
 <!--Intro end-->
 
