@@ -52,6 +52,9 @@ Visitor count
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=yunusparvezkhan&show_icons=true&theme=dark&hide_border=true" />
   <br></br>
+  
+  <!--- Streaks here -->
+  
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yunusparvezkhan&theme=dark&hide_border=false" /> 
 </td>
 
