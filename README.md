@@ -90,7 +90,7 @@ Visitor count
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,express,figma,firebase,github,html,js,linux,md,materialui,mongodb,mysql,nodejs,react,redux,go,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,express,figma,firebase,github,html,js,linux,md,materialui,tailwind,mongodb,mysql,nodejs,react,redux,go,vscode&perline=14" />
   </a>
 </p>
 
