@@ -33,7 +33,7 @@ Visitor count
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **[Camitech](https://www.github.com/camitechhq)** as a Co-Founder
+- 🔭 I’m currently working on/at **[Camitech](https://www.github.com/camitechhq)** as the CEO.
 
 - 🌱 I’m currently learning **Go**
  
