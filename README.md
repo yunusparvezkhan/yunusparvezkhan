@@ -33,7 +33,7 @@ Visitor count
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on/at **[Camitech](https://www.github.com/camitechhq)** as the CEO.
+- 🔭 I’m currently working on [Project Vishnu](https://www.github.com/camitechhq) of **SERVELOP CORP** as the CEO.
 
 - 🌱 I’m currently learning **Go**
  
