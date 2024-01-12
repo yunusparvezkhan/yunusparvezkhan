@@ -33,7 +33,7 @@ Visitor count
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently serving the [Project Vishnu](https://www.github.com/camitechhq) of **SERVELOP CORP** as the CEO.
+- 🔭 I’m currently serving the [Project Vishnu](https://www.github.com/projectVishnu) of **SERVELOP CORP** as the CEO.
 
 - 🌱 I’m currently learning **Go**
  
