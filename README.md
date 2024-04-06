@@ -28,7 +28,8 @@ Visitor count
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Consistantly Learning Computer Programming and observing Geopolitics</h2></summary>
-    <summary><h4 style="display: inline-block">Don't worry, I'm not a robot.</h4></summary>
+    <h4>Computer & Political Scientist</h4>
+    <h5>&& Don't worry, I'm not a robot.</h5>
   </ul>
 </div>
 
@@ -37,7 +38,7 @@ Visitor count
 
 - 🌱 I’m currently learning **Go**
  
-- 📫 Feel free to reach me out **ping.dev.ypk@gmail.com**
+- 📫 Feel free to reach me out at **ping.dev.ypk@gmail.com**
 
 <!--Intro end-->
 
