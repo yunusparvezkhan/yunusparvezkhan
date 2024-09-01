@@ -28,7 +28,7 @@ Visitor count
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Consistantly Learning Computer Programming and observing Geopolitics</h2></summary>
-    <h4>Computer & Political Scientist</h4>
+    <h4>Political & Computer Scientist</h4>
     <h5>&& Don't worry, I'm not a robot.</h5>
   </ul>
 </div>
