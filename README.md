@@ -1,8 +1,6 @@
 
 <!--horizontal divider(gradiant)-->
-<ul align="center">
-  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/grid-snake.svg">
-</ul>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -21,7 +19,7 @@ Visitor count
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
@@ -32,6 +30,7 @@ Visitor count
     <summary><h2 style="display: inline-block">Consistantly Learning Computer Programming and observing Geopolitics</h2></summary>
     <h4>Political & Computer Scientist</h4>
     <h5>&& Don't worry, I'm not a robot.</h5>
+    <br/>
   </ul>
 </div>
 
