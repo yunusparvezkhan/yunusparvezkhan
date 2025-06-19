@@ -35,11 +35,14 @@ Visitor count
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently serving the [Project Vishnu](https://www.github.com/projectVishnu) of **SERVELOP CORP** as the CEO.
+- 🔭 I’m currently serving the [Project Vishnu](https://www.github.com/projectVishnu) of **SERVELOP CORPORATION** as the CEO.
 
-- 🌱 I’m currently learning **Go**
+- 🎓 I’m currently studying at **Southern New Hampshire University** at **New Hampshire, United States**
+
+- 🌱 I’m currently learning **How to make the best coffee**
  
-- 📫 Feel free to reach me out at **ping.yunus@gmail.com**
+- 📫 Feel free to reach me out at **yunus@servelop.com**
+
 
 <!--Intro end-->
 
